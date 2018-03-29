@@ -4,3 +4,8 @@
 	filemode = false
 	bare = true
 	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/VTDuyen1/SpringbootProject.git
+[remote "spring"]
+	url = https://github.com/VTDuyen1/SpringbootProject.git
+	push = HEAD:HEAD
